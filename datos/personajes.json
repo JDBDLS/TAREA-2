@@ -1,0 +1,26 @@
+[
+    {
+        "cedula": "PINKMAN_BRBA",
+        "foto_url": "https:\/\/as01.epimg.net\/epik\/imagenes\/2018\/11\/08\/portada\/1541669017_242892_1541671090_noticia_normal_recorte1.jpg",
+        "nombre": "Jesse",
+        "apellido": "Pinkman",
+        "fecha_nacimiento": "1999-11-11",
+        "sexo": "Masculino",
+        "habilidades": "fumar,enamorar,gueler",
+        "comida_favorita": "Pizza",
+        "codigo_obra": "BRBA",
+        "fecha_registro": "2025-05-30 01:03:04"
+    },
+    {
+        "cedula": "THRS_VIN",
+        "foto_url": "https:\/\/m.media-amazon.com\/images\/M\/MV5BNWE2ZmNiODEtNmYyMS00NWRjLTllZjMtMmI5YzM2NDUwZjAzXkEyXkFqcGc@._V1_.jpg",
+        "nombre": "Thors",
+        "apellido": "Bautista",
+        "fecha_nacimiento": "1222-08-08",
+        "sexo": "Masculino",
+        "habilidades": "perdonar a sus enemigos y ser el m\u00e1s fuerte de la serie",
+        "comida_favorita": "pescado",
+        "codigo_obra": "VIN_LND_SAG",
+        "fecha_registro": "2025-05-30 01:06:18"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "codigo": "BRBA",
+        "foto_url": "https:\/\/m.media-amazon.com\/images\/M\/MV5BMzU5ZGYzNmQtMTdhYy00OGRiLTg0NmQtYjVjNzliZTg1ZGE4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "tipo": "Serie",
+        "nombre": "Breaking Bad",
+        "descripcion": "droga",
+        "pais": "Estados Unidos",
+        "autor": "Vince Gilligan",
+        "fecha_registro": "2025-05-30 01:01:31"
+    },
+    {
+        "codigo": "VIN_LND_SAG",
+        "foto_url": "https:\/\/m.media-amazon.com\/images\/M\/MV5BNDA3MGNmZTEtMzFiMy00ZmViLThhNmQtMjQ4ZDc5MDEyN2U1XkEyXkFqcGc@._V1_.jpg",
+        "tipo": "Otro",
+        "nombre": "Vinland Saga",
+        "descripcion": "Mochar a gente por la mitad seria temporada y la segunda temp seria  enemigos",
+        "pais": "Jap\u00f3n",
+        "autor": "Josue Bautista",
+        "fecha_registro": "2025-05-30 01:05:05"
+    }
+]
